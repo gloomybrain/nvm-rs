@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "node-launcher",
+  "node-version-clerk",
+  "shared",
+]
